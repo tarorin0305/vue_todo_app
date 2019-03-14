@@ -21,6 +21,9 @@
 /storage/*
 !/storage/.keep
 
+# Ignore all vendor files
+/vendor/*
+
 /node_modules
 /yarn-error.log
 

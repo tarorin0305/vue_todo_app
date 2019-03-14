@@ -436,6 +436,24 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="dotenv (vbundled(0.7.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="erubi (vbundled(1.8.0)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="3" />
@@ -484,6 +502,33 @@
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/ffi-1.10.0/ext" />
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/ffi-1.10.0/samples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="foreman (vbundled(0.64.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/spec" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/spec" />
         </excluded>
       </library>
     </orderEntry>
@@ -1220,29 +1265,29 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="sqlite3 (vbundled(1.4.0)) [path][gem]" type="rubylib">
+      <library name="sqlite3 (vbundled(1.3.13)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="3" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/ext" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/faq" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/lib" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/test" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/rakelib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/faq" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/tasks" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/ext" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/faq" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/lib" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/test" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/rakelib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/faq" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/tasks" />
         </SOURCES>
         <excluded>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/ext" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/faq" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/test" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.4.0/rakelib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/faq" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/tasks" />
         </excluded>
       </library>
     </orderEntry>
