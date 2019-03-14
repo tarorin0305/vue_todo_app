@@ -214,6 +214,26 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="autoprefixer-rails (vbundled(9.4.10.2)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.10.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.10.2/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.10.2/vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.10.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.10.2/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.10.2/vendor" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.10.2/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="bindex (vbundled(0.5.0)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="3" />
@@ -593,6 +613,26 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="jquery-rails (vbundled(4.3.3)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/test" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/vendor" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="listen (vbundled(3.1.5)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="3" />
@@ -655,6 +695,39 @@
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/marcel-0.3.3/lib" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="material_icons (vbundled(2.2.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/material_icons-2.2.1/app" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/material_icons-2.2.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/material_icons-2.2.1/app" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/material_icons-2.2.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="materialize-sass (vbundled(1.0.0)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/materialize-sass-1.0.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/materialize-sass-1.0.0/assets" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/materialize-sass-1.0.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/materialize-sass-1.0.0/assets" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/materialize-sass-1.0.0/assets" />
+        </excluded>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
