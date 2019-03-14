@@ -24,6 +24,9 @@
 # Ignore all vendor files
 /vendor/*
 
+# Ignore all RubyMine files
+.idea/*
+
 /node_modules
 /yarn-error.log
 

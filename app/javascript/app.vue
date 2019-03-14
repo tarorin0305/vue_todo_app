@@ -8,7 +8,7 @@
 export default {
   data: function () {
     return {
-      message: "勝ち続ける。"
+      message: "オートコンパイル"
     }
   }
 }
